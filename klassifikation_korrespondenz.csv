@@ -1,0 +1,13 @@
+alt_code,neu_code,neu_name,anteil
+GI,G,Handel,0.52
+GI,H,Verkehr und Lagerei,0.36
+GI,I,Gastgewerbe,0.12
+A,A,"Land- und Forstwirtschaft, Fischerei",1
+BE,BE,Produzierendes Gewerbe ohne Baugewerbe,1
+F,F,Baugewerbe,1
+J,J,Information und Kommunikation,1
+K,K,Finanz- und Versicherungsdienstleister,1
+L,L,Grundstuecks- und Wohnungswesen,1
+MN,MN,Unternehmensdienstleister,1
+OQ,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",1
+RU,RU,Sonstige Dienstleister,1
