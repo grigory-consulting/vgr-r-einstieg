@@ -1,0 +1,291 @@
+jahr,quartal,bereich_code,bereich_name,wert
+2018,1,A,"Land- und Forstwirtschaft, Fischerei",6313.5
+2018,1,BE,Produzierendes Gewerbe ohne Baugewerbe,159290.9
+2018,1,F,Baugewerbe,33556.5
+2018,1,GI,"Handel, Verkehr, Gastgewerbe",114905.7
+2018,1,J,Information und Kommunikation,36987
+2018,1,K,Finanz- und Versicherungsdienstleister,27296.9
+2018,1,L,Grundstuecks- und Wohnungswesen,75360.4
+2018,1,MN,Unternehmensdienstleister,91061
+2018,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",108777.3
+2018,1,RU,Sonstige Dienstleister,24624.1
+2018,2,A,"Land- und Forstwirtschaft, Fischerei",6510.5
+2018,2,BE,Produzierendes Gewerbe ohne Baugewerbe,169598.8
+2018,2,F,Baugewerbe,36131.5
+2018,2,GI,"Handel, Verkehr, Gastgewerbe",123085.7
+2018,2,J,Information und Kommunikation,37314.5
+2018,2,K,Finanz- und Versicherungsdienstleister,28568.5
+2018,2,L,Grundstuecks- und Wohnungswesen,78835.7
+2018,2,MN,Unternehmensdienstleister,97630.7
+2018,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",115278.3
+2018,2,RU,Sonstige Dienstleister,25933.7
+2018,3,A,"Land- und Forstwirtschaft, Fischerei",6748
+2018,3,BE,Produzierendes Gewerbe ohne Baugewerbe,169623.9
+2018,3,F,Baugewerbe,36293.5
+2018,3,GI,"Handel, Verkehr, Gastgewerbe",122583.2
+2018,3,J,Information und Kommunikation,39102.9
+2018,3,K,Finanz- und Versicherungsdienstleister,28144.8
+2018,3,L,Grundstuecks- und Wohnungswesen,79769.9
+2018,3,MN,Unternehmensdienstleister,98093.1
+2018,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",114871.2
+2018,3,RU,Sonstige Dienstleister,26592.8
+2018,4,A,"Land- und Forstwirtschaft, Fischerei",6819
+2018,4,BE,Produzierendes Gewerbe ohne Baugewerbe,175454.3
+2018,4,F,Baugewerbe,37136.9
+2018,4,GI,"Handel, Verkehr, Gastgewerbe",129954.4
+2018,4,J,Information und Kommunikation,40323.1
+2018,4,K,Finanz- und Versicherungsdienstleister,30030.5
+2018,4,L,Grundstuecks- und Wohnungswesen,83604.1
+2018,4,MN,Unternehmensdienstleister,100819.6
+2018,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",121924.7
+2018,4,RU,Sonstige Dienstleister,27898.4
+2019,1,A,"Land- und Forstwirtschaft, Fischerei",6476.4
+2019,1,BE,Produzierendes Gewerbe ohne Baugewerbe,166131.8
+2019,1,F,Baugewerbe,35451.6
+2019,1,GI,"Handel, Verkehr, Gastgewerbe",123690.4
+2019,1,J,Information und Kommunikation,37713.3
+2019,1,K,Finanz- und Versicherungsdienstleister,28237.8
+2019,1,L,Grundstuecks- und Wohnungswesen,78849.6
+2019,1,MN,Unternehmensdienstleister,96424
+2019,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",116683.3
+2019,1,RU,Sonstige Dienstleister,26789.4
+2019,2,A,"Land- und Forstwirtschaft, Fischerei",6922.1
+2019,2,BE,Produzierendes Gewerbe ohne Baugewerbe,175266.5
+2019,2,F,Baugewerbe,37231.3
+2019,2,GI,"Handel, Verkehr, Gastgewerbe",127062.3
+2019,2,J,Information und Kommunikation,40405.9
+2019,2,K,Finanz- und Versicherungsdienstleister,29501.6
+2019,2,L,Grundstuecks- und Wohnungswesen,84520.2
+2019,2,MN,Unternehmensdienstleister,101554.7
+2019,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",124768.3
+2019,2,RU,Sonstige Dienstleister,27863
+2019,3,A,"Land- und Forstwirtschaft, Fischerei",7115.7
+2019,3,BE,Produzierendes Gewerbe ohne Baugewerbe,179071.7
+2019,3,F,Baugewerbe,37839.7
+2019,3,GI,"Handel, Verkehr, Gastgewerbe",129174.5
+2019,3,J,Information und Kommunikation,41625.6
+2019,3,K,Finanz- und Versicherungsdienstleister,30030.9
+2019,3,L,Grundstuecks- und Wohnungswesen,81780.8
+2019,3,MN,Unternehmensdienstleister,102923.6
+2019,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",124261.3
+2019,3,RU,Sonstige Dienstleister,27218.9
+2019,4,A,"Land- und Forstwirtschaft, Fischerei",7376.8
+2019,4,BE,Produzierendes Gewerbe ohne Baugewerbe,182071.5
+2019,4,F,Baugewerbe,39328.6
+2019,4,GI,"Handel, Verkehr, Gastgewerbe",134485.1
+2019,4,J,Information und Kommunikation,42648.7
+2019,4,K,Finanz- und Versicherungsdienstleister,31233.9
+2019,4,L,Grundstuecks- und Wohnungswesen,88826
+2019,4,MN,Unternehmensdienstleister,107243.7
+2019,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",127160
+2019,4,RU,Sonstige Dienstleister,29117.6
+2020,1,A,"Land- und Forstwirtschaft, Fischerei",6762.4
+2020,1,BE,Produzierendes Gewerbe ohne Baugewerbe,176334.7
+2020,1,F,Baugewerbe,37347.6
+2020,1,GI,"Handel, Verkehr, Gastgewerbe",124065.9
+2020,1,J,Information und Kommunikation,40204.4
+2020,1,K,Finanz- und Versicherungsdienstleister,29965.4
+2020,1,L,Grundstuecks- und Wohnungswesen,82197.1
+2020,1,MN,Unternehmensdienstleister,100024.6
+2020,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",121088.6
+2020,1,RU,Sonstige Dienstleister,27728.3
+2020,2,A,"Land- und Forstwirtschaft, Fischerei",7201.4
+2020,2,BE,Produzierendes Gewerbe ohne Baugewerbe,184376.3
+2020,2,F,Baugewerbe,39023.5
+2020,2,GI,"Handel, Verkehr, Gastgewerbe",136048.9
+2020,2,J,Information und Kommunikation,43010.5
+2020,2,K,Finanz- und Versicherungsdienstleister,30704.5
+2020,2,L,Grundstuecks- und Wohnungswesen,86481.3
+2020,2,MN,Unternehmensdienstleister,105312.5
+2020,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",129267.3
+2020,2,RU,Sonstige Dienstleister,29640.1
+2020,3,A,"Land- und Forstwirtschaft, Fischerei",7517.6
+2020,3,BE,Produzierendes Gewerbe ohne Baugewerbe,186886
+2020,3,F,Baugewerbe,39927.8
+2020,3,GI,"Handel, Verkehr, Gastgewerbe",135406.9
+2020,3,J,Information und Kommunikation,42164.2
+2020,3,K,Finanz- und Versicherungsdienstleister,31689.1
+2020,3,L,Grundstuecks- und Wohnungswesen,87671.5
+2020,3,MN,Unternehmensdienstleister,108519
+2020,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",128696.2
+2020,3,RU,Sonstige Dienstleister,28894
+2020,4,A,"Land- und Forstwirtschaft, Fischerei",7515.2
+2020,4,BE,Produzierendes Gewerbe ohne Baugewerbe,196394.6
+2020,4,F,Baugewerbe,40758.9
+2020,4,GI,"Handel, Verkehr, Gastgewerbe",140881.4
+2020,4,J,Information und Kommunikation,44293.2
+2020,4,K,Finanz- und Versicherungsdienstleister,32161.4
+2020,4,L,Grundstuecks- und Wohnungswesen,93698.5
+2020,4,MN,Unternehmensdienstleister,112279.2
+2020,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",134629
+2020,4,RU,Sonstige Dienstleister,30867.3
+2021,1,A,"Land- und Forstwirtschaft, Fischerei",7177.4
+2021,1,BE,Produzierendes Gewerbe ohne Baugewerbe,182056.3
+2021,1,F,Baugewerbe,38164.3
+2021,1,GI,"Handel, Verkehr, Gastgewerbe",132614
+2021,1,J,Information und Kommunikation,41734.7
+2021,1,K,Finanz- und Versicherungsdienstleister,31027.4
+2021,1,L,Grundstuecks- und Wohnungswesen,85290.6
+2021,1,MN,Unternehmensdienstleister,103856.5
+2021,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",126520.1
+2021,1,RU,Sonstige Dienstleister,28980.8
+2021,2,A,"Land- und Forstwirtschaft, Fischerei",7577
+2021,2,BE,Produzierendes Gewerbe ohne Baugewerbe,194915.9
+2021,2,F,Baugewerbe,40957.8
+2021,2,GI,"Handel, Verkehr, Gastgewerbe",141592.6
+2021,2,J,Information und Kommunikation,45727.3
+2021,2,K,Finanz- und Versicherungsdienstleister,32689.7
+2021,2,L,Grundstuecks- und Wohnungswesen,90669.1
+2021,2,MN,Unternehmensdienstleister,112754.8
+2021,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",136164
+2021,2,RU,Sonstige Dienstleister,30554.5
+2021,3,A,"Land- und Forstwirtschaft, Fischerei",7732.3
+2021,3,BE,Produzierendes Gewerbe ohne Baugewerbe,192072.8
+2021,3,F,Baugewerbe,40966.1
+2021,3,GI,"Handel, Verkehr, Gastgewerbe",144777.2
+2021,3,J,Information und Kommunikation,45372.3
+2021,3,K,Finanz- und Versicherungsdienstleister,33379.5
+2021,3,L,Grundstuecks- und Wohnungswesen,94096.1
+2021,3,MN,Unternehmensdienstleister,112453.1
+2021,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",137323.9
+2021,3,RU,Sonstige Dienstleister,31112.8
+2021,4,A,"Land- und Forstwirtschaft, Fischerei",7897.5
+2021,4,BE,Produzierendes Gewerbe ohne Baugewerbe,203142.7
+2021,4,F,Baugewerbe,44351.8
+2021,4,GI,"Handel, Verkehr, Gastgewerbe",150025
+2021,4,J,Information und Kommunikation,46378
+2021,4,K,Finanz- und Versicherungsdienstleister,33269.2
+2021,4,L,Grundstuecks- und Wohnungswesen,96461
+2021,4,MN,Unternehmensdienstleister,116592.9
+2021,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",140447.3
+2021,4,RU,Sonstige Dienstleister,32139.5
+2022,1,A,"Land- und Forstwirtschaft, Fischerei",7709.8
+2022,1,BE,Produzierendes Gewerbe ohne Baugewerbe,191703.5
+2022,1,F,Baugewerbe,40663.4
+2022,1,GI,"Handel, Verkehr, Gastgewerbe",142038.4
+2022,1,J,Information und Kommunikation,43949.7
+2022,1,K,Finanz- und Versicherungsdienstleister,32285.4
+2022,1,L,Grundstuecks- und Wohnungswesen,90775.3
+2022,1,MN,Unternehmensdienstleister,108092.9
+2022,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",135576.4
+2022,1,RU,Sonstige Dienstleister,31004.8
+2022,2,A,"Land- und Forstwirtschaft, Fischerei",8005.3
+2022,2,BE,Produzierendes Gewerbe ohne Baugewerbe,206382.5
+2022,2,F,Baugewerbe,43042.7
+2022,2,GI,"Handel, Verkehr, Gastgewerbe",148816.7
+2022,2,J,Information und Kommunikation,47232.8
+2022,2,K,Finanz- und Versicherungsdienstleister,35118.1
+2022,2,L,Grundstuecks- und Wohnungswesen,97928.8
+2022,2,MN,Unternehmensdienstleister,117754.5
+2022,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",143482.7
+2022,2,RU,Sonstige Dienstleister,32017.5
+2022,3,A,"Land- und Forstwirtschaft, Fischerei",8124
+2022,3,BE,Produzierendes Gewerbe ohne Baugewerbe,205143.6
+2022,3,F,Baugewerbe,43731.6
+2022,3,GI,"Handel, Verkehr, Gastgewerbe",147554.2
+2022,3,J,Information und Kommunikation,46889.2
+2022,3,K,Finanz- und Versicherungsdienstleister,35019.5
+2022,3,L,Grundstuecks- und Wohnungswesen,97837.8
+2022,3,MN,Unternehmensdienstleister,117244.1
+2022,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",141397.2
+2022,3,RU,Sonstige Dienstleister,32412.2
+2022,4,A,"Land- und Forstwirtschaft, Fischerei",8338.8
+2022,4,BE,Produzierendes Gewerbe ohne Baugewerbe,210508.2
+2022,4,F,Baugewerbe,45521.8
+2022,4,GI,"Handel, Verkehr, Gastgewerbe",157024
+2022,4,J,Information und Kommunikation,49855.1
+2022,4,K,Finanz- und Versicherungsdienstleister,36429.7
+2022,4,L,Grundstuecks- und Wohnungswesen,102305.8
+2022,4,MN,Unternehmensdienstleister,123460.6
+2022,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",152676.2
+2022,4,RU,Sonstige Dienstleister,32861.4
+2023,1,A,"Land- und Forstwirtschaft, Fischerei",7967.7
+2023,1,BE,Produzierendes Gewerbe ohne Baugewerbe,202305.5
+2023,1,F,Baugewerbe,42247.8
+2023,1,GI,"Handel, Verkehr, Gastgewerbe",147700.7
+2023,1,J,Information und Kommunikation,46814.1
+2023,1,K,Finanz- und Versicherungsdienstleister,33914
+2023,1,L,Grundstuecks- und Wohnungswesen,94442.9
+2023,1,MN,Unternehmensdienstleister,116600.1
+2023,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",141775.3
+2023,1,RU,Sonstige Dienstleister,32167.3
+2023,2,A,"Land- und Forstwirtschaft, Fischerei",8396.3
+2023,2,BE,Produzierendes Gewerbe ohne Baugewerbe,216216
+2023,2,F,Baugewerbe,45390.8
+2023,2,GI,"Handel, Verkehr, Gastgewerbe",150995
+2023,2,J,Information und Kommunikation,49630.7
+2023,2,K,Finanz- und Versicherungsdienstleister,36682.1
+2023,2,L,Grundstuecks- und Wohnungswesen,102097.7
+2023,2,MN,Unternehmensdienstleister,125237.4
+2023,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",147386.8
+2023,2,RU,Sonstige Dienstleister,34422.8
+2023,3,A,"Land- und Forstwirtschaft, Fischerei",8456.9
+2023,3,BE,Produzierendes Gewerbe ohne Baugewerbe,218278.9
+2023,3,F,Baugewerbe,45977.1
+2023,3,GI,"Handel, Verkehr, Gastgewerbe",156510.7
+2023,3,J,Information und Kommunikation,50278.7
+2023,3,K,Finanz- und Versicherungsdienstleister,36471.6
+2023,3,L,Grundstuecks- und Wohnungswesen,100438.3
+2023,3,MN,Unternehmensdienstleister,126001
+2023,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",149573.9
+2023,3,RU,Sonstige Dienstleister,33968.5
+2023,4,A,"Land- und Forstwirtschaft, Fischerei",8990.6
+2023,4,BE,Produzierendes Gewerbe ohne Baugewerbe,226917.9
+2023,4,F,Baugewerbe,47229.1
+2023,4,GI,"Handel, Verkehr, Gastgewerbe",163402.1
+2023,4,J,Information und Kommunikation,51507.7
+2023,4,K,Finanz- und Versicherungsdienstleister,37943.5
+2023,4,L,Grundstuecks- und Wohnungswesen,105617
+2023,4,MN,Unternehmensdienstleister,128160.3
+2023,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",156397.3
+2023,4,RU,Sonstige Dienstleister,34542.2
+2024,1,A,"Land- und Forstwirtschaft, Fischerei",8323.1
+2024,1,BE,Produzierendes Gewerbe ohne Baugewerbe,213942.3
+2024,1,F,Baugewerbe,45443.3
+2024,1,GI,"Handel, Verkehr, Gastgewerbe",154264.7
+2024,1,J,Information und Kommunikation,48127.7
+2024,1,K,Finanz- und Versicherungsdienstleister,37118.9
+2024,1,L,Grundstuecks- und Wohnungswesen,98745.3
+2024,1,MN,Unternehmensdienstleister,122868.6
+2024,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",146231.6
+2024,1,RU,Sonstige Dienstleister,33494.2
+2024,2,A,"Land- und Forstwirtschaft, Fischerei",9019.4
+2024,2,BE,Produzierendes Gewerbe ohne Baugewerbe,224350.7
+2024,2,F,Baugewerbe,48340
+2024,2,GI,"Handel, Verkehr, Gastgewerbe",164033
+2024,2,J,Information und Kommunikation,52162.8
+2024,2,K,Finanz- und Versicherungsdienstleister,37990.5
+2024,2,L,Grundstuecks- und Wohnungswesen,106671.9
+2024,2,MN,Unternehmensdienstleister,128903.3
+2024,2,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",156441.3
+2024,2,RU,Sonstige Dienstleister,35069.3
+2024,3,A,"Land- und Forstwirtschaft, Fischerei",8814
+2024,3,BE,Produzierendes Gewerbe ohne Baugewerbe,224312.1
+2024,3,F,Baugewerbe,48317.1
+2024,3,GI,"Handel, Verkehr, Gastgewerbe",161750.1
+2024,3,J,Information und Kommunikation,50319.9
+2024,3,K,Finanz- und Versicherungsdienstleister,38977.5
+2024,3,L,Grundstuecks- und Wohnungswesen,106636.1
+2024,3,MN,Unternehmensdienstleister,130664.8
+2024,3,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",158104.9
+2024,3,RU,Sonstige Dienstleister,35998.3
+2024,4,A,"Land- und Forstwirtschaft, Fischerei",9415.9
+2024,4,BE,Produzierendes Gewerbe ohne Baugewerbe,235527.9
+2024,4,F,Baugewerbe,49271.1
+2024,4,GI,"Handel, Verkehr, Gastgewerbe",169363.8
+2024,4,J,Information und Kommunikation,54530.9
+2024,4,K,Finanz- und Versicherungsdienstleister,40030.1
+2024,4,L,Grundstuecks- und Wohnungswesen,109360.8
+2024,4,MN,Unternehmensdienstleister,134202
+2024,4,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",161981.8
+2024,4,RU,Sonstige Dienstleister,37165.5
+2025,1,A,"Land- und Forstwirtschaft, Fischerei",9513.2
+2025,1,BE,Produzierendes Gewerbe ohne Baugewerbe,239571.6
+2025,1,F,Baugewerbe,49090.9
+2025,1,GI,"Handel, Verkehr, Gastgewerbe",170110.5
+2025,1,J,Information und Kommunikation,54091.7
+2025,1,K,Finanz- und Versicherungsdienstleister,40213.9
+2025,1,L,Grundstuecks- und Wohnungswesen,110849.7
+2025,1,MN,Unternehmensdienstleister,134072.5
+2025,1,OQ,"Oeffentliche Dienstleister, Erziehung, Gesundheit",163140.1
+2025,1,RU,Sonstige Dienstleister,36651.2
